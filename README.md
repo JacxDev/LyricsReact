@@ -1,3 +1,16 @@
+Proyecto de practica
+
+Tecnologias utilizadas:
+-React
+-Axios
+-Boostrap
+-API
+
+Enlace de prueba: https://lirycsreact.netlify.com/
+
+
+////////////////////////////////////////////////////////////////////////////////////
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
